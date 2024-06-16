@@ -7,3 +7,4 @@ xhofe/alist:latest
 docker.io/homeassistant/home-assistant
 docker.io/xiaoyaliu/alist
 docker.io/adolfintel/speedtest
+docker.io/networkstatic/iperf3
