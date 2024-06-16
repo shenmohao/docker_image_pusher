@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 docker.io/homeassistant/home-assistant
 docker.io/xiaoyaliu/alist
+docker.io/adolfintel/speedtest
